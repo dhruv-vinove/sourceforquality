@@ -244,6 +244,12 @@ button.sign-in:hover{
     text-align: start !important;
 
 }
+.carousel-indicators button {
+    background-color: black !important;
+}
+.carousel-indicators {
+    bottom: -55px !important;
+}
 .discovery-section-card img{
     width: 100%;
     max-height: 700px;
