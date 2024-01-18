@@ -54,7 +54,10 @@ nav .nav-link{
 }
 .navbar-toggler-icon{
     color: white;
-    background-image:none;
+    background-image:none !important;
+}
+.navbar-toggler:focus{
+    box-shadow: none !important;
 }
 .nav-link{
 color: #E7E6C9 !important;
