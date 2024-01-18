@@ -233,15 +233,15 @@ button.sign-in:hover{
     line-height: 140%;
 }
 .carousel .cstm-card .img{
-    margin-left: 0px;
+    margin-left: 0px !important;
 }
 
 .carousel .cstm-card h3{
-    text-align: start;
+    text-align: start !important;
 
 }
 .carousel .cstm-card p{
-    text-align: start;
+    text-align: start !important;
 
 }
 .discovery-section-card img{
