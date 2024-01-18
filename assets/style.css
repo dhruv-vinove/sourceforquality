@@ -150,6 +150,10 @@ button.sign-in:hover{
 .theme-space{
     padding: 33px 64px;
 }
+.theme-space.video-space{
+    margin-top: 87px;
+    padding: 16px;
+}
 
 .banner-search{
     display: flex;
@@ -452,6 +456,20 @@ margin-top: 40px;
             margin-bottom: 24px;
             font-size: 24px;
         }
+        .accordion-section .accordion-item .accordion-button {
+            padding-top: 24px;
+            padding-bottom: 24px;
+            font-size: 34px !important;
+
+        }
+        .accordion-section .accordion-item .accordion-collapse{
+            font-size: 16px;
+            padding-bottom: 40px;
+        }
+        .video .content h1{
+            font-size: 24px;
+            width: 280px;
+        }
 }
 @media(max-width:576px){
 .banner-section{
@@ -626,6 +644,9 @@ margin-top: 40px;
     padding:40px 20px 40px 20px ;
 }
 .Find-suppliers-section .mobile-content br{
+    display: none;
+}
+.discovery-section-card p br{
     display: none;
 }
 }
