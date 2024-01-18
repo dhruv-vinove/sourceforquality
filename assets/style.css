@@ -285,6 +285,7 @@ border-radius: 100px;
 background: #FF9D3B;
 border: none;
 margin-top: 40px;
+color: #071F0F !important;
 }
 .video{
     position: relative !important;
