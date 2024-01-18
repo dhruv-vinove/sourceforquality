@@ -232,6 +232,18 @@ button.sign-in:hover{
     font-weight: 400;
     line-height: 140%;
 }
+.carousel .cstm-card .img{
+    margin-left: 0px;
+}
+
+.carousel .cstm-card h3{
+    text-align: start;
+
+}
+.carousel .cstm-card p{
+    text-align: start;
+
+}
 .discovery-section-card img{
     width: 100%;
     max-height: 700px;
