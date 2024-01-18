@@ -514,7 +514,7 @@ margin-top: 40px;
 @media(max-width:920px){
 
     .theme-space {
-        padding: 33px 12px;
+        padding: 33px 16px;
     }
     .footer ul{
         margin: auto;
@@ -615,6 +615,20 @@ margin-top: 40px;
     }
 }
 
+@media (max-width: 991px){
+
+.Find-suppliers-section h1{
+    font-size: 40px;
+    width: 85%;
+    margin: auto;
+}
+.Find-suppliers-section .mobile-content{
+    padding:40px 20px 40px 20px ;
+}
+.Find-suppliers-section .mobile-content br{
+    display: none;
+}
+}
 
 .accordion-item {
 
