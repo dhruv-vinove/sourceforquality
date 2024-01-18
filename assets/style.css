@@ -427,6 +427,16 @@ margin-top: 40px;
     .theme-space{
         padding: 24px 16px;
     }
+    .banner-section{
+        padding: 0 !important;
+    }
+    .banner-section nav{
+        padding: 28px 0 0 0 !important;
+    }
+    .banner-section .content{
+        padding: 0 16px 33px 16px;
+
+    }
     .banner-section .content h1 {
 
         text-align: center;
